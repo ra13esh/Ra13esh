@@ -1,6 +1,1 @@
-<style>
-  h1{
-  color: red;
-  }
-</style>
-<h1>My Profile</h1>
+<h1 style="color:red;">My Profile</h1>
